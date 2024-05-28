@@ -35,7 +35,7 @@ redis_sg_name              = "expert9-redis-sg"
 
 length  = "16"
 special = "false"
-name    = "expertsecretmanagerr"
+name    = "expertsecretmanagerrdevloping"
 
 # # ############################################# VPC ################################################
 
