@@ -12,7 +12,7 @@ locals {
 
 # Module for creating a custom VPC
 module "customvpc" {
-  source                   = "./vpc"
+  source                   = "./VPC"
   vpc-name                 = var.vpc-name
   cidrblock                = var.cidr-block
   vpc_private_subnets      = var.private-subnet
